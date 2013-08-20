@@ -1,5 +1,5 @@
-SetecAstronomy
-==============
+Setec Astronomy
+===============
 
 Explore ideas of how to have private communication on the internet.
 
