@@ -18,4 +18,4 @@ The Moving Parts
 Discussion
 ----------
 
-Imagine the government records all of your encrypted communications for five years.  Imagine that they have a particular message sent to you, that they want decrypted.  You no longer posess the Private Key, because you kept your promise of destroying them every three days, so you cannot be forced (by any means) to aid the government.
+Imagine the government records all of your encrypted communications for five years.  Imagine that they have a particular message sent to you, that they want decrypted.  You no longer posess the Private Key, because you kept your promise of destroying them every three days, so you cannot be forced (by any means) to aid the government to decrypt old messages.  They could, however, force you to assist them in generating new messages for entrapment (and I don't believe there's any way at all to prevent that.)
